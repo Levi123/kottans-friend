@@ -12,6 +12,7 @@ I have collected a some information about myself:
     - [X] Git Basics
     - [ ] Linux CLI and Networking
     - [ ] VCS (hello gitty), GitHub and Collaboration
+- [ ] Linux CLI and Networking
 
 # Git Basics
 
