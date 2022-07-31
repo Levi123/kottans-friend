@@ -38,4 +38,9 @@ What's new:
 <img width="1256" alt="Снимок экрана 2022-07-31 в 12 18 35" src="https://user-images.githubusercontent.com/23247356/182028220-ad0d2690-5258-4659-9d8f-85e75f8439d3.png">
 </details>
 
+# Git Collaboration
 
+What's new:
+1.  Studied working with local and remote repositories in more detail.
+2.  I understood the difference between using fetch and pull commands
+3.  Working with branches requires additional branch.
