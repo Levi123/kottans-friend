@@ -43,4 +43,10 @@ What's new:
 What's new:
 1.  Studied working with local and remote repositories in more detail.
 2.  I understood the difference between using fetch and pull commands
-3.  Working with branches requires additional branch.
+3.  Working with branches requires additional study.
+
+<details><summary>Screenshots</summary>
+<img width="891" alt="Снимок экрана 2022-07-31 в 23 35 45" src="https://user-images.githubusercontent.com/23247356/182045141-fc9a1e3f-6591-41f3-9a18-221f47b2a89e.png">
+<img width="887" alt="Снимок экрана 2022-07-31 в 23 35 51" src="https://user-images.githubusercontent.com/23247356/182045146-172031df-15fe-48f3-a1e5-9dff93bd7a6a.png">
+</details>
+
