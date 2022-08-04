@@ -50,3 +50,12 @@ What's new:
 <img width="887" alt="Снимок экрана 2022-07-31 в 23 35 51" src="https://user-images.githubusercontent.com/23247356/182045146-172031df-15fe-48f3-a1e5-9dff93bd7a6a.png">
 </details>
 
+# Intro to HTML and CSS
+
+What's new:
+1.  Overall this topic is very easy for me because I have previous experience with HTML and CSS. But it helped me refresh my knowledge.
+
+<details><summary>Screenshots</summary>
+<img width="845" alt="Снимок экрана 2022-08-03 в 23 42 12" src="https://user-images.githubusercontent.com/23247356/182925289-5d015a4e-42e6-4f0d-a556-4b63871ab5d4.png">
+<img width="831" alt="Снимок экрана 2022-08-04 в 21 25 27" src="https://user-images.githubusercontent.com/23247356/182925501-4d8f392b-5e86-438b-b76a-cde2f3082cd5.png">
+</details>
