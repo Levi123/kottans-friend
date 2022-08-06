@@ -11,8 +11,13 @@ I have collected a some information about myself:
 - [X] General
     - [X] Git Basics
     - [X] Linux CLI and Networking
-    - [ ] VCS (hello gitty), GitHub and Collaboration
-- [ ] Linux CLI and Networking
+    - [X] VCS (hello gitty), GitHub and Collaboration
+- [ ] Front-End Basics  
+    - [X] Intro to HTML & CSS
+    - [X] Responsive Web Design
+    - [ ] HTML & CSS Practice
+    - [ ] JavaScript Basics
+    - [ ] Document Object Model
 
 # Git Basics
 
@@ -59,3 +64,15 @@ What's new:
 <img width="845" alt="Снимок экрана 2022-08-03 в 23 42 12" src="https://user-images.githubusercontent.com/23247356/182925289-5d015a4e-42e6-4f0d-a556-4b63871ab5d4.png">
 <img width="831" alt="Снимок экрана 2022-08-04 в 21 25 27" src="https://user-images.githubusercontent.com/23247356/182925501-4d8f392b-5e86-438b-b76a-cde2f3082cd5.png">
 </details>
+
+# Responsive Web Design
+
+What's new:
+1.  Learned the basics about CSS Grid and Flexbox layouts.
+2.  Learned about tools for working with adaptability in the browser.
+
+<details><summary>Screenshots</summary>
+    <img width="681" alt="Снимок экрана 2022-08-06 в 16 24 41" src="https://user-images.githubusercontent.com/23247356/183253019-583a264d-10b6-4032-a8be-e4b57df1aae6.png">
+<img width="681" alt="Снимок экрана 2022-08-06 в 16 24 41" src="https://user-images.githubusercontent.com/23247356/183253023-09742486-c169-4262-ba3c-3babfc706807.png">
+</details>
+
