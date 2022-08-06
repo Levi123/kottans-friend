@@ -73,6 +73,7 @@ What's new:
 
 <details><summary>Screenshots</summary>
     <img width="681" alt="Снимок экрана 2022-08-06 в 16 24 41" src="https://user-images.githubusercontent.com/23247356/183253019-583a264d-10b6-4032-a8be-e4b57df1aae6.png">
-<img width="681" alt="Снимок экрана 2022-08-06 в 16 24 41" src="https://user-images.githubusercontent.com/23247356/183253023-09742486-c169-4262-ba3c-3babfc706807.png">
+    <img width="691" alt="Снимок экрана 2022-08-05 в 17 51 41" src="https://user-images.githubusercontent.com/23247356/183253051-62ca1471-6875-485b-8b03-b66be8baecf9.png">
+
 </details>
 
