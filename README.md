@@ -15,8 +15,8 @@ I have collected a some information about myself:
 - [ ] Front-End Basics  
     - [X] Intro to HTML & CSS
     - [X] Responsive Web Design
-    - [ ] HTML & CSS Practice
-    - [ ] JavaScript Basics
+    - [X] HTML & CSS Practice
+    - [X] JavaScript Basics
     - [ ] Document Object Model
 
 # Git Basics
@@ -76,4 +76,26 @@ What's new:
     <img width="691" alt="Снимок экрана 2022-08-05 в 17 51 41" src="https://user-images.githubusercontent.com/23247356/183253051-62ca1471-6875-485b-8b03-b66be8baecf9.png">
 
 </details>
+
+# JS Basics
+
+What's new:
+1.  Recursion was a completely new concept for me. Requires additional practice.
+2.  Access to nested objects and arrays.
+3.  Difference between "var" and "let".
+4.  Const behavior for primitives and objects.
+5.  Different methods of arrays and objects.
+6.  Basic concepts of functional programming.
+
+<details><summary>Screenshots</summary>
+<img width="743" alt="Снимок экрана 2022-08-19 в 16 04 09" src="https://user-images.githubusercontent.com/23247356/185624386-70ffa24b-bd80-4a99-a297-cb36a72838d5.png">
+<img width="737" alt="Снимок экрана 2022-08-19 в 16 04 58" src="https://user-images.githubusercontent.com/23247356/185624505-34028c6e-b12a-4c84-9acb-ecdc2f53d456.png">
+<img width="739" alt="Снимок экрана 2022-08-19 в 16 05 42" src="https://user-images.githubusercontent.com/23247356/185624649-84680093-60f0-49f1-9b59-eff54559312f.png">
+<img width="738" alt="Снимок экрана 2022-08-19 в 16 06 21" src="https://user-images.githubusercontent.com/23247356/185624730-fb6d12ce-6e48-49f1-8424-49cf792cc1c7.png">
+<img width="744" alt="Снимок экрана 2022-08-19 в 16 07 00" src="https://user-images.githubusercontent.com/23247356/185624822-b6efe27e-9ae0-4cf3-811f-3a0c07e9a07d.png">
+<img width="742" alt="Снимок экрана 2022-08-19 в 16 07 25" src="https://user-images.githubusercontent.com/23247356/185624904-626caba2-10d2-456e-a6c0-215247ba1e96.png">
+</details>
+
+
+
 
