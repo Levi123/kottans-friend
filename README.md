@@ -108,6 +108,8 @@ What's new:
 <img width="741" alt="Снимок экрана 2022-08-22 в 11 59 45" src="https://user-images.githubusercontent.com/23247356/185886854-569eaee2-50bb-4347-8093-abb80051ec15.png">
 </details>
 
-
-
+# A Tiny JS World
+What's new:
+1.  I understood the main ideas of OOP.
+[DEMO](https://levi123.github.io/a-tiny-JS-world/)
 
