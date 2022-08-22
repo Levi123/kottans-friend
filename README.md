@@ -17,7 +17,7 @@ I have collected a some information about myself:
     - [X] Responsive Web Design
     - [X] HTML & CSS Practice
     - [X] JavaScript Basics
-    - [ ] Document Object Model
+    - [X] Document Object Model
 
 # Git Basics
 
@@ -94,6 +94,18 @@ What's new:
 <img width="738" alt="Снимок экрана 2022-08-19 в 16 06 21" src="https://user-images.githubusercontent.com/23247356/185624730-fb6d12ce-6e48-49f1-8424-49cf792cc1c7.png">
 <img width="744" alt="Снимок экрана 2022-08-19 в 16 07 00" src="https://user-images.githubusercontent.com/23247356/185624822-b6efe27e-9ae0-4cf3-811f-3a0c07e9a07d.png">
 <img width="742" alt="Снимок экрана 2022-08-19 в 16 07 25" src="https://user-images.githubusercontent.com/23247356/185624904-626caba2-10d2-456e-a6c0-215247ba1e96.png">
+</details>
+
+# DOM
+
+What's new:
+1.  Navigation through DOM elements.
+2.  Element search methods.
+3.  Learned about working with events.
+4.  Used HTML/CSS/Flexbox coding skills.
+
+<details><summary>Screenshots</summary>
+<img width="741" alt="Снимок экрана 2022-08-22 в 11 59 45" src="https://user-images.githubusercontent.com/23247356/185886854-569eaee2-50bb-4347-8093-abb80051ec15.png">
 </details>
 
 
