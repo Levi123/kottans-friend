@@ -122,6 +122,7 @@ What's new:
 <details><summary>Screenshots</summary>
 <img width="1009" alt="Снимок экрана 2022-08-24 в 15 25 22" src="https://user-images.githubusercontent.com/23247356/186418196-bd3f6c29-92c9-409f-a1ed-e04b58514d1a.png">
 </details>
+
 [Codewars](https://www.codewars.com/users/Yuriy%20Kozak)
 
 [DEMO](https://levi123.github.io/frontend-nanodegree-arcade-game/)
