@@ -124,4 +124,3 @@ What's new:
 </details>
 [Codewars](https://www.codewars.com/users/Yuriy%20Kozak)
 [DEMO](https://levi123.github.io/frontend-nanodegree-arcade-game/)
-</details>
