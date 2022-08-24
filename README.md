@@ -113,3 +113,15 @@ What's new:
 1.  I understood the main ideas of OOP.
 [DEMO](https://levi123.github.io/a-tiny-JS-world/)
 
+# Object Oriented JS
+What's new:
+1.  I understood the principles of OOP and why it is needed.
+2.  I understood how classes work.
+3.  Learned more about what a prototype is.
+4.  Learned what getters and setters are.
+<details><summary>Screenshots</summary>
+<img width="1009" alt="Снимок экрана 2022-08-24 в 15 25 22" src="https://user-images.githubusercontent.com/23247356/186418196-bd3f6c29-92c9-409f-a1ed-e04b58514d1a.png">
+</details>
+[Codewars](https://www.codewars.com/users/Yuriy%20Kozak)
+[DEMO](https://levi123.github.io/frontend-nanodegree-arcade-game/)
+</details>
