@@ -12,22 +12,33 @@ I have collected a some information about myself:
     - [X] Git Basics
     - [X] Linux CLI and Networking
     - [X] VCS (hello gitty), GitHub and Collaboration
-- [ ] Front-End Basics  
+- [X] Front-End Basics  
     - [X] Intro to HTML & CSS
     - [X] Responsive Web Design
     - [X] HTML & CSS Practice
     - [X] JavaScript Basics
     - [X] Document Object Model
+- [X] Advanced Topics  
+    - [X] Building a Tiny JS World (pre-OOP) 
+    - [X] Object oriented JS
+    - [ ] OOP exercise
+    - [ ] Offline Web Applications
+    - [ ] Memory pair game 
+    - [ ] Website Performance Optimization 
+    - [ ] Friends App
+
 
 # Git Basics
 
 I watched the first and second weeks of the Introduction to Git and GitHub course. Got basic concepts about VCS technology and working with Git.
 Also learned Git using an interactive method: [learngitbranching.js.org](https://learngitbranching.js.org/?locale=uk)
 
+<details><summary>Screenshots</summary>
 <p align="center">
 <img width="896" alt="Снимок экрана 2022-07-30 в 12 42 09" src="https://user-images.githubusercontent.com/23247356/181904785-fb6a3b7f-55be-4713-a6cf-d1c68f0a2f29.png">
 <img width="892" alt="Снимок экрана 2022-07-30 в 12 42 18" src="https://user-images.githubusercontent.com/23247356/181904790-8f639af7-438c-4292-8859-6c04f1ed963b.png">
 </p>
+</details>
 
 # Linux CLI, and HTTP
 
