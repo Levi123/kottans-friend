@@ -138,7 +138,7 @@ What's new:
 
 [DEMO](https://levi123.github.io/frontend-nanodegree-arcade-game/)
 
-#Memory Pair Game
+# Memory Pair Game
 What's new:
 1. Got my first experience working with animation.
 2. Learned and used ascent and descent.
