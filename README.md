@@ -23,7 +23,7 @@ I have collected a some information about myself:
     - [X] Object oriented JS
     - [ ] OOP exercise
     - [ ] Offline Web Applications
-    - [ ] Memory pair game 
+    - [X] Memory pair game 
     - [ ] Website Performance Optimization 
     - [ ] Friends App
 
@@ -137,3 +137,11 @@ What's new:
 [Codewars](https://www.codewars.com/users/Yuriy%20Kozak)
 
 [DEMO](https://levi123.github.io/frontend-nanodegree-arcade-game/)
+
+#Memory Pair Game
+What's new:
+1. Got my first experience working with animation.
+2. Learned and used ascent and descent.
+3. Got practice in working with DOM.
+
+[DEMO](https://levi123.github.io/Memory-Pair-Game/)
