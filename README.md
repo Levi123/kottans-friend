@@ -21,7 +21,7 @@ I have collected a some information about myself:
 - [X] Advanced Topics  
     - [X] Building a Tiny JS World (pre-OOP) 
     - [X] Object oriented JS
-    - [ ] OOP exercise
+    - [X] OOP exercise
     - [ ] Offline Web Applications
     - [X] Memory pair game 
     - [ ] Website Performance Optimization 
@@ -137,6 +137,9 @@ What's new:
 [Codewars](https://www.codewars.com/users/Yuriy%20Kozak)
 
 [DEMO](https://levi123.github.io/frontend-nanodegree-arcade-game/)
+
+# OOP Exercise
+[DEMO](https://levi123.github.io/a-tiny-JS-world/)
 
 # Memory Pair Game
 What's new:
